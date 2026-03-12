@@ -1,0 +1,11 @@
+INFO:     127.0.0.1:50628 - "GET /.well-known/oauth-authorization-server/mcp HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50630 - "GET /mcp/.well-known/oauth-authorization-server HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50632 - "GET /.well-known/oauth-authorization-server HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50638 - "POST /mcp/ HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50638 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50640 - "POST /mcp/ HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50640 - INFO:     127.0.0.1:50652 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50653 - "POST /mcp HTTP/1.1" 200 OK
+    127.0.0.1:50640 - "POST /mcp/ HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50640 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50646 - "POST /mcp HTTP/1.1" 200 OK
